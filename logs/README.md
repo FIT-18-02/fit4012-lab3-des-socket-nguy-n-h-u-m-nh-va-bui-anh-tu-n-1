@@ -10,7 +10,7 @@ Gợi ý đặt tên file:
 - `05-header-error.txt`
 
 Mỗi file log nên cho thấy:
-- thời điểm chạy,
+- thời điểm chạy 1:46 AM
 - ai trong nhóm thực hiện ca demo,
 - input / tình huống,
 - kết quả nhận được,
