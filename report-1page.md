@@ -2,7 +2,7 @@
 
 ## Thông tin nhóm
 - Thành viên 1: Nguyễn Hữu Mạnh
-- Thành viên 2: TODO_STUDENT 2
+- Thành viên 2: Bùi Anh Tuấn
 
 ## Mục tiêu
 Mục tiêu của bài lab là xây dựng và hiểu rõ quy trình giao tiếp giữa hai thực thể Sender và Receiver qua giao thức TCP Socket trong môi trường mạng. Qua đó, sinh viên nắm vững cách áp dụng thuật toán mã hóa đối xứng DES ở chế độ CBC, cơ chế Padding PKCS#7 và cách đóng gói dữ liệu (Packet Header) để truyền tải thông tin an toàn. Bài lab cũng nhằm giúp sinh viên làm quen với việc đánh giá các lỗ hổng bảo mật thông qua mô hình Threat Model và thực thi kiểm thử phần mềm tự động.
@@ -10,7 +10,7 @@ Mục tiêu của bài lab là xây dựng và hiểu rõ quy trình giao tiếp
 ## Phân công thực hiện
 Nguyễn Hữu Mạnh: Phụ trách xây dựng logic lõi trong des_socket_utils.py (Mã hóa, giải mã, PKCS#7) và triển khai tiến trình sender.py.
 
-Thành viên 2 ([Tên bạn đồng hành]): Phụ trách triển khai receiver.py, thiết lập hệ thống kiểm thử tự động trong thư mục tests/ và thu thập minh chứng tại logs/.
+Bùi Anh Tuấn: Phụ trách triển khai receiver.py, thiết lập hệ thống kiểm thử tự động trong thư mục tests/ và thu thập minh chứng tại logs/.
 
 Làm chung: Thiết lập cấu trúc gói tin (Packet structure), xây dựng tài liệu threat-model-1page.md và thực hiện Peer-review.
 ## Cách làm
